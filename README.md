@@ -12,8 +12,6 @@ Använd elementen
 * ```<p>```, Paragraf
 
 ```
-The Garlic News
-
 Trump har gjort det igen!
 
 USAs president senaste tweet, "Det var jag som uppfann hjulet!"
