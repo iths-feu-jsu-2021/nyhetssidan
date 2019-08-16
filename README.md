@@ -32,7 +32,8 @@ Skriven av Yngve Magnusdottir
 
 ### Uppdelning av innehåll - Nestning
 
-Lägg till artikeln nedan och märk upp den tillsammans med tidigare innehåll
+Efter du är klar med introduktionen, fortsätt med att
+lägga till artikeln nedan och märk upp den tillsammans med tidigare innehåll.
 
 Använd elementen
 
