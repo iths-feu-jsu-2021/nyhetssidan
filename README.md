@@ -31,7 +31,7 @@ Skriven av Yngve Magnusdottir
 ### Uppdelning av innehåll - Nestning
 
 Efter du är klar med introduktionen, fortsätt med att
-lägga till artikeln nedan och märk upp den tillsammans med tidigare innehåll.
+lägga till en ny artikel och märk upp den tillsammans med tidigare innehåll.
 
 Använd elementen
 
@@ -55,6 +55,12 @@ minima ipsa assumenda necessitatibus delectus asperiores!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 Et recusandae eius aut minus amet fuga exercitationem delectus sint eos aliquid.
+```
+
+Lägg även till en ```<footer>```innehållande 
+```
+info@garlicnews.com
++850 555-1337
 ```
 
 ### HTML-dokumentet
