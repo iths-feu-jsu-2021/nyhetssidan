@@ -47,7 +47,7 @@ Använd elementen
 * ```<footer>```, brukar innehålla saker som kontaktuppgifter och dylikt
 
 ```
-Ny måne hittat
+Ny måne hittad
 
 "Den smakade som kyckling", säger forskare
 
