@@ -32,7 +32,9 @@ Skriven av Yngve Magnusdottir
 
 Efter du är klar med introduktionen, fortsätt med att
 lägga till en ny artikel och märk upp den tillsammans med tidigare innehåll.
-Lägg även till en ```<header>``` innehållande ```The Garlic News``` som en rubrik,
+Se till att alla rubriker och paragrafer som tillhör samma artikel blir markerade tillsammans.
+
+Lägg även till en ```<header>``` innehållande ```The Garlic News``` i en rubrik,
 samt en ```<footer>```innehållande 
 ```
 info@garlicnews.com
@@ -71,7 +73,14 @@ Lägg också till ```<!DOCTYPE html>``` längst upp i dokumentet.
 Använd elementen
 
 * ```<html>```, Detta är roten till alla HTML-dokument
-* ```<head>```, meta-information och saker som inte syns i själv fönstret
+* ```<head>```, meta-information och saker som inte syns i själva fönstret
     * ```<title>```, Texten som syns på tabben i webbläsaren, ska vara i ```<head>```
     * ```<meta charset="UTF-8">```, anger teckenkodning på dokumentet, ska vara i ```<head>``` 
 * ```<body>```, allt innehåll på sidan, ex ```<article>```, ```<h1>``` och ```<p>```
+
+
+### Finishing up
+Lägg till en ikon till webbsidan.
+```html
+<link rel="icon" href="path/to/icon">
+```
